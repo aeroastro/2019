@@ -71,10 +71,6 @@ emorima:
     2012年に国内で初めてのRails Girlsが開催され、今年5月に開催が予定されている Nagano 1stで国内開催 50回目を迎えます。
 
     これまでの国内のRails Girlsの取り組みと、これからについてお話します。
-
-    The first Rails Girls event in Japan was held in 2012. We will celebrate the 50th events on Nagoya 1st in May 2018. 
-
-    I will talk on the history and future of Rails Girls in Japan.
   ama_id: null
   presentation_url: null
 
@@ -151,6 +147,8 @@ hokaccha:
   name: 外村 和仁
   description: |
     クックパッドの Rails アプリケーションは世界でも有数な巨大モノリックアプリケーションです。その巨大さゆえに、機能の追加やメンテナンスがまともにできる状態ではありませんでした。その問題を解決するためにコード削減やシステム分割などの様々な施策を積み重ね、ようやく成果が出てきました。そのような施策で得られた知見や今後の展望について紹介します。
+
+    The Rails application of Cookpad is one of the hugest monolithic application in the world. Due to the hugeness, we had difficulties implementing new features and maintaining existent features. Various kinds of measures have been carried out to solve this issue such as reducing lines of code and breaking the system down to smaller ones, which is now bearing fruit. I will share the findings and the future plan of this transformation to microservices.
   ama_id: null
   presentation_url: null
 
